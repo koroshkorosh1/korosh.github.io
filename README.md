@@ -12,4 +12,3 @@ You can find a live version at [koroshkorosh1.github.io.com](https://koroshkoros
 - [linkedin](https://www.linkedin.com/in/koroshkorosh1/)
 - [Telegram](https://www.t.me/koroshkorosh1/)
 - [Gmail](Koroshuni@gmail.com)
-- TEL +98 917 186 5293
