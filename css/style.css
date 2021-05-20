@@ -1,0 +1,113 @@
+/* .rw-widget-container {
+  background-color: #af3185 !important;
+  width: 450px !important;
+  height: 700px !important;
+} */
+
+/* .rw-widget-embedded {
+  background-color: #af3185 !important;
+  width: 450px !important;
+  height: 700px !important;
+} */
+
+/* .rw-full-screen {
+  background-color: #af3185 !important;
+  width: 200% !important; 
+} */
+
+.rw-widget-container .rw-conversation-container {
+  background-color: #356597 !important;
+  width: 500px;
+  max-width: 100%;
+}
+
+.rw-widget-container .rw-full-screen .rw-conversation-container {
+  background-color: #356597 !important;
+  width: 100% !important;
+}  
+
+.rw-widget-container .rw-launcher{
+  background-color: #356597 !important;
+  width: 75px;
+  height: 75px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+/* ---------------- */
+.rw-messages-container .rw-message .rw-client{
+  background-color: #356597 !important;
+  /* width: 100% !important; */
+}
+
+/* ---------------- */
+/* .rw-close-button {
+  background-color: #97357e !important;
+  width: 100% !important;
+} */
+
+
+/* .rw-sender {
+  background-color: #af3185 !important;
+  width: 450px !important;
+} */
+
+/* .rw-new-message {
+  background-color: #fafaf4 !important;
+  width: 200% !important;
+} */
+
+/* .rw-send {
+  background-color: #7b277e !important;
+  width: 200% !important;
+} */
+
+.rw-header {
+  background-color: #356597 !important;
+}
+
+.rw-title {
+  /* background-color: #ffffff !important; */
+  /* color: rgb(45, 216, 187);  */
+  /* width: 100% !important; */
+}
+
+/* .rw-close-button {
+  background-color: #7b277e !important;
+  width: 200% !important;
+} */
+
+/* .rw-loading {
+  background-color: #7b277e !important;
+  width: 200% !important;
+} */
+
+/* .rw-message {
+  background-color: #af3185 !important;
+} */
+
+.rw-replies {
+  /* background-color: #af3185 !important; */
+  /* outline-color: #af3185 !important;
+  border-color: #af3185 !important;
+  border-top-color: blueviolet !important; */
+  /* background-color: yellow; */
+}
+
+/* .rw-snippet {
+  background-color: #af3185 !important;
+} */
+
+/* .rw-imageFrame {
+  background-color: #af3185 !important;
+  width: 1000px;
+} */
+
+/* .rw-videoFrame {
+  background-color: #af3185 !important;
+} */
+
+.rw-messages-container .rw-message .rw-response {
+  color: green !important;
+  opacity: 1 !important;
+}
